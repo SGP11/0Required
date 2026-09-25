@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ModPackTemplate.dll",
+  "author": "SGP11",
+  "name": "0Required Modlist 1",
+  "uniqueName": "SGP11.SPG11.0RequiredM1",
+  "version": "1.0.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": [
+    "_nebula.MenuFramework",
+    "dgarro.CustomShipLogModes",
+    "JohnCorby.OWFixPluginTypesSerialization",
+    "JohnCorby.VanillaFix",
+    "xen.CommonCameraUtility",
+    "xen.NewHorizons"
+  ]
+}
