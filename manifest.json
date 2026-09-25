@@ -3,7 +3,7 @@
   "filename": "ModPackTemplate.dll",
   "author": "SGP11",
   "name": "0Required Modlist 1",
-  "uniqueName": "SGP11.SPG11.0RequiredM1",
+  "uniqueName": "SGP11.0RequiredM1",
   "version": "1.0.0",
   "owmlVersion": "2.15.1",
   "dependencies": [
