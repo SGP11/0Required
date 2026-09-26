@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="required_modlist_banner" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/76012533-244b-47e2-99dd-8fd21661cb9e" />
 
 # SPG11.M1Required — Essential Outer Wilds Modlist
 
