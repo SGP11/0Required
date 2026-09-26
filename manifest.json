@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "ModPackTemplate.dll",
   "author": "SGP11",
-  "name": "0Required Modlist 1",
-  "uniqueName": "SGP11.0RequiredM1",
+  "name": "Essential Modlist 1",
+  "uniqueName": "SGP11.M1Essential",
   "version": "1.0.0",
   "owmlVersion": "2.15.1",
   "dependencies": [
@@ -11,6 +11,8 @@
     "dgarro.CustomShipLogModes",
     "JohnCorby.OWFixPluginTypesSerialization",
     "JohnCorby.VanillaFix",
+    "lStewieAl.RunInBackground",
+    "Switch.WoahWatchThoseFrames",
     "xen.CommonCameraUtility",
     "xen.NewHorizons"
   ]
